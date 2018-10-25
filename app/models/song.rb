@@ -1,0 +1,3 @@
+class songs < ApplicationRecord
+  
+end
